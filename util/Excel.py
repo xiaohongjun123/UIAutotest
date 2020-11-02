@@ -5,13 +5,16 @@
 # @File    : Excel.py
 # @system  : WenJiang
 
-
-from openpyxl import load_workbook
+import sys
 import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+from openpyxl import load_workbook
 
 #读取Excel的方法
 def ReadExcel():
-    wb=load_workbook(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"\casedata\GovernmentCaseData.xlsx")
+    wb=load_workbook(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/casedata/GovernmentCaseData.xlsx")
     sheet=wb["Sheet1"]
     allvalue=[]
     for row in list(sheet.rows)[2:sheet.max_row]:
