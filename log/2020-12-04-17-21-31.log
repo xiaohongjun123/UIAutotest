@@ -1,0 +1,8 @@
+2020-12-04 17:21:31,654-Runner-INFO-***********开始执行测试************
+2020-12-04 17:21:48,803-GovernmentCaseLog-INFO-账号登录成功
+2020-12-04 17:21:48,805-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2020-12-04 17:21:50,895-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:侠客岛
+2020-12-04 17:21:53,061-GovernmentCaseLog-INFO-预期结果为成都侠客岛信息科技有限公司
+2020-12-04 17:22:12,334-GovernmentCaseLog-INFO-账号登录成功
+2020-12-04 17:22:12,335-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2020-12-04 17:22:14,398-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li/div/div[2]/div/button/span/span执行点击

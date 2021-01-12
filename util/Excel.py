@@ -5,23 +5,23 @@
 # @File    : Excel.py
 # @system  : WenJiang
 
-import sys
-import os
-curPath = os.path.abspath(os.path.dirname(__file__))
-rootPath = os.path.split(curPath)[0]
-sys.path.append(rootPath)
+
 from openpyxl import load_workbook
+import os
 
 #读取Excel的方法
 def ReadExcel():
     wb=load_workbook(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/casedata/GovernmentCaseData.xlsx")
     sheet=wb["Sheet1"]
     allvalue=[]
-    for row in list(sheet.rows)[2:sheet.max_row]:
+    for row in list(sheet.rows)[1:sheet.max_row]:
         value=[]
-        for column in range(1,sheet.max_column-1):
+        for column in range(1,sheet.max_column):
             value.append(row[column].value)
-        allvalue.append(value)
+        if value[0]=="是":
+            allvalue.append(value)
+        else:
+            continue
     return allvalue
 
 

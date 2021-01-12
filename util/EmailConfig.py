@@ -48,7 +48,7 @@ def emailSend(*recivers):
     <html>
         <head></head>
         <body>
-            <p>本来测试结果如下，详情请看附件：<br>
+            <p>本次测试结果如下，详情请使用chrome浏览器打开附件查看：<br>
                 <br><img src="cid:image1"></br>
             </p>
         </body>
@@ -62,7 +62,7 @@ def emailSend(*recivers):
     att=MIMEText(open(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/UIAutoTestReport.html","rb").read(),"base64","utf-8")
     print(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/UIAutoTestReport.html")
     att['Content-Type'] = 'application/octet-stream'
-    att['Content-Disposition'] = "attachment;filename='UIAutoTestReport.html'"
+    att['Content-Disposition'] = "attachment;filename=UIAutoTestReport.html"
     message.attach(att)
     print("构造附件")
 
@@ -75,5 +75,4 @@ def emailSend(*recivers):
     except smtplib.SMTPException as e:
         print(e)
 if __name__=="__main__":
-    print("xiao")
     emailSend("xiaohongjun1093@dingtalk.com")

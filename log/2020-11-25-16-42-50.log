@@ -1,0 +1,12 @@
+2020-11-25 16:42:50,874-Runner-INFO-***********开始执行测试************
+2020-11-25 16:43:00,292-GovernmentCaseLog-INFO-账号登录成功
+2020-11-25 16:43:00,293-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:三只松鼠
+2020-11-25 16:43:02,390-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[2]/div/div[3]/div/div/button[1]/span执行点击
+2020-11-25 16:43:04,450-GovernmentCaseLog-INFO-预期结果为哈哈
+2020-11-25 16:43:14,841-GovernmentCaseLog-INFO-账号登录成功
+2020-11-25 16:43:14,843-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2020-11-25 16:43:16,900-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li[1]/div/div[2]/div/button/span/span执行点击
+2020-11-25 16:43:26,928-GovernmentCaseLog-ERROR-一级模块:工作看板 二级模块:通过去处理进入到处理界面 用例名称:xpath操作 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li[1]/div/div[2]/div/button/span/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2020-11-25 16:43:26,995-Runner-INFO-************生成测试报告成功********

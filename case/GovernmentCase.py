@@ -16,7 +16,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 log=LogRecord.LogRd("GovernmentCaseLog").getLog()
 @ddt.ddt
-class Login(unittest.TestCase):
+class WenjiangGov(unittest.TestCase):
     def setUp(self):
         self.driver=LoginCommon.Loginmode()
         log.info("账号登录成功")
@@ -24,7 +24,8 @@ class Login(unittest.TestCase):
         self.driver.quit()
 
     @ddt.data(*Excel.ReadExcel())
-    def test_login(self,value):
+    def test_UI(self,value):
+        '''{}'''
         self.driver.implicitly_wait(10)
         for step in range(len(value)):
             try:

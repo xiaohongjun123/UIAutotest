@@ -27,11 +27,11 @@ def ScreenPic():
     driver = webdriver.Chrome(executable_path="/opt/google/chrome/chromedriver", options=options)
     driver.fullscreen_window()
     #print(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/UIAutoTestReport.html")
-    driver.get("file:///root/lianxi/testreport/UIAutoTestReport.html")
+    driver.get("file:///home/xiaohongjun/uitest/testreport/UIAutoTestReport.html")
     filename = "Screemshot.png"
     time.sleep(3)
     driver.save_screenshot(filename)
-    ele = driver.find_element_by_xpath('''/html/body/div[2]''')
+    ele = driver.find_element_by_xpath('''/html/body/div[2]/div[1]/div''')
     left = ele.location["x"]
     top = ele.location["y"]
     right = left + ele.size["width"]

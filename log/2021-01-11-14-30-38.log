@@ -1,0 +1,25 @@
+2021-01-11 14:30:51,830-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 14:30:51,832-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[4]/span执行点击
+2021-01-11 14:30:53,912-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/ul/li[5]/div/div[1]/input执行输入操作,输入值为:2020-11-01 00:00:00
+2021-01-11 14:30:58,262-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 14:30:58,262-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-01-11 14:31:00,316-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/ul/li[5]/span执行点击
+2021-01-11 14:31:02,385-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[1]/div[2]/div/input执行输入操作,输入值为:成都凯丽印象酒店有限公司
+2021-01-11 14:31:04,560-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[1]/div[2]/button/span执行点击
+2021-01-11 14:31:06,611-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div[3]/table/tbody/tr[1]/td[9]/div/div[5]/button/span执行点击
+2021-01-11 14:31:08,691-GovernmentCaseLog-INFO-预期结果为订正记录详情
+2021-01-11 14:31:12,981-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 14:31:12,983-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[8]/div/span执行点击
+2021-01-11 14:31:15,043-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[8]/ul/li/span执行点击
+2021-01-11 14:31:17,105-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[3]/div[1]/div[5]/div[2]/table/tbody/tr[4]/td[11]/div/div[1]/button/span执行点击
+2021-01-11 14:31:19,174-GovernmentCaseLog-INFO-预期结果为基本信息
+2021-01-11 14:31:23,302-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 14:31:23,302-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 14:31:25,358-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[1]/span执行点击
+2021-01-11 14:31:27,427-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[9]/div/div[1]/button/span执行点击
+2021-01-11 14:31:29,500-GovernmentCaseLog-INFO-预期结果为机构名称
+2021-01-11 14:31:33,519-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 14:31:33,522-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 14:31:35,578-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[1]/span执行点击
+2021-01-11 14:31:37,639-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[9]/div/div[2]/button/span执行点击
+2021-01-11 14:31:39,709-GovernmentCaseLog-INFO-预期结果为中介机构名称
