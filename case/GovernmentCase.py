@@ -16,7 +16,15 @@ from selenium.common.exceptions import NoSuchElementException
 
 log=LogRecord.LogRd("GovernmentCaseLog").getLog()
 @ddt.ddt
-class WenjiangGov(unittest.TestCase):
+class Login(unittest.TestCase):
+
+    def isElementExist(self,element):
+        try:
+            self.driver.find_element_by_xpath(element)
+        except NoSuchElementException as e:
+            return Falseyao
+        return True
+
     def setUp(self):
         self.driver=LoginCommon.Loginmode()
         log.info("账号登录成功")
@@ -24,17 +32,22 @@ class WenjiangGov(unittest.TestCase):
         self.driver.quit()
 
     @ddt.data(*Excel.ReadExcel())
-    def test_UI(self,value):
-        '''{}'''
+    def test_login(self,value):
+        '''{}'''#获取用例描述
         self.driver.implicitly_wait(10)
         for step in range(len(value)):
             try:
+
                 if value[step]=="输入值":
                     log.info("元素:%s执行输入操作,输入值为:%s"%(value[step+1],value[step+2]))
+                    if self.isElementExist(value[step+1])==False:
+                        self.driver.refresh()
                     self.driver.find_element_by_xpath(value[step+1]).send_keys(value[step+2])
                     time.sleep(2)
                 elif value[step]=="xpath操作":
                     log.info("元素:%s执行点击" % (value[step + 1]))
+                    if self.isElementExist(value[step+1])==False:
+                        self.driver.refresh()
                     self.driver.find_element_by_xpath(value[step+1]).click()
                     time.sleep(2)
                 elif value[step]=="预计结果":

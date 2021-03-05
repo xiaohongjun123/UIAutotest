@@ -1,0 +1,45 @@
+2021-02-26 16:57:10,634-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:57:10,635-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:57:12,676-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[1]/span执行点击
+2021-02-26 16:57:14,728-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[1]/div[1]/div/div/div/div[1]/p[2]执行点击
+2021-02-26 16:57:16,802-GovernmentCaseLog-INFO-预期结果为中钞长城贵金属有限公司
+2021-02-26 16:57:24,025-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:57:24,026-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:57:26,073-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[1]/span执行点击
+2021-02-26 16:57:28,126-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[1]/div[1]/div/div/div/div[2]/p[2]执行点击
+2021-02-26 16:57:37,627-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:57:37,628-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:57:39,676-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[1]/span执行点击
+2021-02-26 16:57:41,731-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[6]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[18]/div/button/span执行点击
+2021-02-26 16:57:43,790-GovernmentCaseLog-INFO-预期结果为成都市温江区工业企业基础调查
+2021-02-26 16:57:50,900-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:57:50,901-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:57:52,947-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[1]/span执行点击
+2021-02-26 16:57:54,998-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[2]/div[1]/div/div/input执行输入操作,输入值为:中钞长城贵金属有限公司
+2021-02-26 16:57:57,209-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[2]/div[1]/div/button/span执行点击
+2021-02-26 16:57:59,270-GovernmentCaseLog-INFO-预期结果为91510115727435347M
+2021-02-26 16:58:06,221-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:58:06,221-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:58:08,262-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[2]/span执行点击
+2021-02-26 16:58:10,316-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[4]/div[1]/div[2]/input执行输入操作,输入值为:91510115202459776W
+2021-02-26 16:58:12,566-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[4]/div[2]/button[1]/span执行点击
+2021-02-26 16:58:14,702-GovernmentCaseLog-INFO-预期结果为成都市温江区兴能天然气有限责任公司
+2021-02-26 16:58:22,113-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:58:22,114-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:58:24,165-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[2]/span执行点击
+2021-02-26 16:58:26,223-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[7]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[17]/div/button/span执行点击
+2021-02-26 16:58:28,277-GovernmentCaseLog-INFO-预期结果为用地填报记录详情
+2021-02-26 16:58:35,266-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:58:35,267-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:58:37,321-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[3]/span执行点击
+2021-02-26 16:58:39,374-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[16]/div/div[1]/button/span执行点击
+2021-02-26 16:58:49,417-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[16]/div/div[1]/button/span"}
+  (Session info: chrome=88.0.4324.146)
+
+2021-02-26 16:58:56,810-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 16:58:56,811-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 16:58:58,856-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[3]/span执行点击
+2021-02-26 16:59:00,908-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div/div/input执行输入操作,输入值为:18030576996
+2021-02-26 16:59:03,082-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div/button/span执行点击
+2021-02-26 16:59:05,134-GovernmentCaseLog-INFO-预期结果为成都市红牛实业有限责任公司
+2021-02-26 16:59:05,144-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:通过企业联络人搜索企业 错误信息:预期结果与实际结果不匹配

@@ -1,0 +1,42 @@
+2021-01-11 17:02:40,128-Runner-INFO-***********开始执行测试************
+2021-01-11 17:02:48,033-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:02:48,034-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2021-01-11 17:02:50,095-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:成都卓胜特维电子科技有限公司
+2021-01-11 17:02:52,364-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[2]/button/span执行点击
+2021-01-11 17:02:54,422-GovernmentCaseLog-INFO-预期结果为成都卓胜特维电子科技有限公司
+2021-01-11 17:03:02,976-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:03:02,976-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 17:03:05,052-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[6]/span执行点击
+2021-01-11 17:03:07,130-GovernmentCaseLog-INFO-元素:关于完善入驻温江区智慧企业服务平台中介服务超市企业信息的通知执行输入操作,输入值为:预计结果
+2021-01-11 17:03:17,168-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:搜索通知公告 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"关于完善入驻温江区智慧企业服务平台中介服务超市企业信息的通知"}
+  (Session info: chrome=87.0.4280.88)
+
+2021-01-11 17:03:26,481-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:03:26,482-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 17:03:28,596-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[6]/span执行点击
+2021-01-11 17:03:30,660-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[2]/div/button[1]/span执行点击
+2021-01-11 17:03:32,701-GovernmentCaseLog-INFO-预期结果为中介服务超市简介
+2021-01-11 17:03:32,713-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:中介服务简介查看 错误信息:预期结果与实际结果不匹配
+2021-01-11 17:03:40,823-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:03:40,824-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 17:03:42,867-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[6]/span执行点击
+2021-01-11 17:03:44,923-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[2]/div/button[2]/span执行点击
+2021-01-11 17:03:46,970-GovernmentCaseLog-INFO-预期结果为温江区企业服务中心
+2021-01-11 17:03:46,981-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:入驻流程查看 错误信息:预期结果与实际结果不匹配
+2021-01-11 17:03:55,187-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:03:55,188-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 17:03:57,242-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[6]/span执行点击
+2021-01-11 17:03:59,304-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[2]/div/button[3]/span执行点击
+2021-01-11 17:04:01,345-GovernmentCaseLog-INFO-预期结果为通知正文
+2021-01-11 17:04:09,358-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:04:09,359-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 17:04:11,443-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[6]/span执行点击
+2021-01-11 17:04:13,503-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[2]/div/button[4]/span执行点击
+2021-01-11 17:04:15,545-GovernmentCaseLog-INFO-预期结果为一般警示名单
+2021-01-11 17:04:15,557-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:服务监督查看 错误信息:预期结果与实际结果不匹配
+2021-01-11 17:04:23,772-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 17:04:23,773-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-01-11 17:04:25,825-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[6]/span执行点击
+2021-01-11 17:04:27,885-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[2]/div/button[5]/span执行点击
+2021-01-11 17:04:29,926-GovernmentCaseLog-INFO-预期结果为新增通知
+2021-01-11 17:04:34,104-Runner-INFO-************生成测试报告成功********
