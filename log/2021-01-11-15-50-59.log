@@ -1,8 +1,0 @@
-2021-01-11 15:51:05,652-GovernmentCaseLog-INFO-账号登录成功
-2021-01-11 15:51:05,653-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
-2021-01-11 15:51:07,686-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:侠客岛
-2021-01-11 15:51:09,767-GovernmentCaseLog-INFO-预期结果为成都侠客岛信息科技有限公司
-2021-01-11 15:51:09,782-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:企业反馈诉求统计 用例名称:通过名字搜索企业 错误信息:预期结果与实际结果不匹配
-2021-01-11 15:51:18,606-GovernmentCaseLog-INFO-账号登录成功
-2021-01-11 15:51:18,607-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[4]/span执行点击
-2021-01-11 15:51:20,670-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/ul/li[5]/div/div[1]/input执行输入操作,输入值为:2020-11-01 00:00:00

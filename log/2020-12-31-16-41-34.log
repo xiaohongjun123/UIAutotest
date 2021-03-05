@@ -1,5 +1,0 @@
-2020-12-31 16:41:40,857-GovernmentCaseLog-INFO-账号登录成功
-2020-12-31 16:41:40,859-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
-2020-12-31 16:41:42,938-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[1]/span执行点击
-2020-12-31 16:41:45,007-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[9]/div/div[2]/button/span执行点击
-2020-12-31 16:41:47,084-GovernmentCaseLog-INFO-预期结果为中介机构名称

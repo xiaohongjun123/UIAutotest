@@ -1,0 +1,12 @@
+2021-03-02 10:14:03,902-Runner-INFO-***********开始执行测试************
+2021-03-02 10:14:08,215-GovernmentCaseLog-INFO-账号登录成功
+2021-03-02 10:14:08,216-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-03-02 10:14:10,267-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/ul/li[1]/span执行点击
+2021-03-02 10:14:12,342-GovernmentCaseLog-INFO-元素://*[@id="tab-tab1"]执行点击
+2021-03-02 10:14:14,387-GovernmentCaseLog-INFO-元素://*[@id="pane-tab1"]/div/div[3]/div[1]/div[5]/div[2]/table/tbody/tr/td[10]/div/div[1]/button/span执行点击
+2021-03-02 10:14:20,431-GovernmentCaseLog-INFO-账号登录成功
+2021-03-02 10:14:20,432-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-03-02 10:14:22,486-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/ul/li[2]/span执行点击
+2021-03-02 10:14:24,550-GovernmentCaseLog-INFO-元素://*[@id="tab-tab1"]执行点击
+2021-03-02 10:14:26,593-GovernmentCaseLog-INFO-元素://*[@id="pane-tab1"]/div/div[3]/div[1]/div[5]/div[2]/table/tbody/tr/td[10]/div/div[1]/button/span执行点击
+2021-03-02 10:14:31,075-Runner-INFO-************生成测试报告成功********

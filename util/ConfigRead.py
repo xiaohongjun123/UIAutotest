@@ -8,8 +8,9 @@
 
 
 #配置文件实例化
+import os
 from configobj import ConfigObj
-config=ConfigObj(r"D:\project\WenJiang_selenium\configfile\Config.ini",encoding="UTF-8")
+config=ConfigObj(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/configfile/Config.ini",encoding="UTF-8")
 
 
 

@@ -1,0 +1,12 @@
+2021-03-02 09:36:07,821-Runner-INFO-***********开始执行测试************
+2021-03-02 09:36:11,995-GovernmentCaseLog-INFO-账号登录成功
+2021-03-02 09:36:11,996-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-03-02 09:36:14,051-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/ul/li[1]/span执行点击
+2021-03-02 09:36:16,114-GovernmentCaseLog-INFO-元素://*[@id="pane-tab1"]/div/div[3]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[10]/div/div[1]/button/span执行点击
+2021-03-02 09:36:18,176-GovernmentCaseLog-INFO-预期结果为新增申报通知
+2021-03-02 09:36:22,148-GovernmentCaseLog-INFO-账号登录成功
+2021-03-02 09:36:22,149-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-03-02 09:36:24,196-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/ul/li[2]/span执行点击
+2021-03-02 09:36:26,261-GovernmentCaseLog-INFO-元素://*[@id="pane-tab1"]/div/div[3]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[10]/div/div[1]/button/span执行点击
+2021-03-02 09:36:28,323-GovernmentCaseLog-INFO-预期结果为新增通知公告
+2021-03-02 09:36:28,405-Runner-INFO-************生成测试报告成功********

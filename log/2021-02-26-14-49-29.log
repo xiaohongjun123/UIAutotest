@@ -1,0 +1,15 @@
+2021-02-26 14:49:29,435-Runner-INFO-***********开始执行测试************
+2021-02-26 14:49:35,005-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 14:49:35,006-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-02-26 14:49:37,062-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/ul/li[2]/span执行点击
+2021-02-26 14:49:39,124-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[1]/div[2]/div[1]/input执行输入操作,输入值为:给予行业组织复工稳产奖励
+2021-02-26 14:49:41,316-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[1]/div[2]/div[2]/button执行点击
+2021-02-26 14:49:43,370-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[5]/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[14]/div/button/span执行点击
+2021-02-26 14:49:45,433-GovernmentCaseLog-INFO-预期结果为温江区产业扶持专项资金申请表
+2021-02-26 14:49:49,685-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 14:49:49,686-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-02-26 14:49:51,742-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/ul/li[1]/span执行点击
+2021-02-26 14:49:53,806-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/input执行输入操作,输入值为:2021年企业融资需求征集
+2021-02-26 14:49:55,936-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/div/button/span执行点击
+2021-02-26 14:49:58,006-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[2]/div[2]/div[3]/table/tbody/tr/td[9]/div/p执行点击
+2021-02-26 14:49:59,142-Runner-INFO-************生成测试报告成功********

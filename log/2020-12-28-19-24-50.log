@@ -1,7 +1,0 @@
-2020-12-28 19:24:50,284-Runner-INFO-***********开始执行测试************
-2020-12-28 19:24:57,184-GovernmentCaseLog-INFO-账号登录成功
-2020-12-28 19:24:57,185-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
-2020-12-28 19:24:59,263-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/ul/li[1]/span执行点击
-2020-12-28 19:25:01,314-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[9]/div/div[2]/button/span执行点击
-2020-12-28 19:25:03,373-GovernmentCaseLog-INFO-预期结果为中介机构名称
-2020-12-28 19:25:05,496-Runner-INFO-************生成测试报告成功********

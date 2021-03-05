@@ -4,10 +4,13 @@
 # @Author  : hongjun.xiao
 # @File    : LogRecord.py
 # @system  : WenJiang
-
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 import logging
 import time
-import os
 #日志记录
 class LogRd(object):
 
@@ -19,9 +22,9 @@ class LogRd(object):
         #获取当前文件的上一层目录的绝对路径
         log_path=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         #日志文件名称,下面两个是等价的
-        #all_log_name=os.path.join(log_path+"\log",rq+".log")
-        all_log_name =log_path + "\log\\"+rq + ".log"
-        #err_log_name=os.path.join(log_path+"\log",rq+"error.log")
+        #all_log_name=os.path.join(log_path+"/log",rq+".log")
+        all_log_name =log_path + "/log/"+rq + ".log"
+        #err_log_name=os.path.join(log_path+"/log",rq+"error.log")
         #定义log输出方式以及输出日志等级
         fh=logging.FileHandler(all_log_name)
         fh.setLevel(logging.DEBUG)

@@ -1,0 +1,21 @@
+2021-02-26 17:30:15,466-Runner-INFO-***********开始执行测试************
+2021-02-26 17:30:19,896-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 17:30:19,897-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 17:30:21,949-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[1]/span执行点击
+2021-02-26 17:30:24,012-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[1]/div[1]/div/div/div/div[2]/p[2]执行点击
+2021-02-26 17:30:26,080-GovernmentCaseLog-INFO-预期结果为成都亿胜医疗设备有限公司
+2021-02-26 17:30:30,253-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 17:30:30,254-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 17:30:32,311-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[3]/span执行点击
+2021-02-26 17:30:34,374-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[16]/div/div[1]执行点击
+2021-02-26 17:30:44,407-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[16]/div/div[1]"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-02-26 17:30:49,076-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 17:30:49,077-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 17:30:51,134-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[3]/span执行点击
+2021-02-26 17:30:53,197-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div/div/input执行输入操作,输入值为:2476-2019-YD01
+2021-02-26 17:30:55,398-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div/button/span执行点击
+2021-02-26 17:30:57,461-GovernmentCaseLog-INFO-预期结果为潘利
+2021-02-26 17:30:57,472-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:通过填报用地编号搜索企业 错误信息:预期结果与实际结果不匹配
+2021-02-26 17:30:57,536-Runner-INFO-************生成测试报告成功********
