@@ -1,0 +1,19 @@
+2021-02-26 17:13:51,922-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 17:13:51,923-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 17:13:53,983-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[1]/span执行点击
+2021-02-26 17:13:56,041-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div/div[1]/div[1]/div/div/div/div[2]/p[2]执行点击
+2021-02-26 17:13:58,164-GovernmentCaseLog-INFO-预期结果为成都亿胜医疗设备有限公司
+2021-02-26 17:14:05,478-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 17:14:05,479-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 17:14:07,525-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[3]/span执行点击
+2021-02-26 17:14:09,578-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[16]/div/div[1]执行点击
+2021-02-26 17:14:19,586-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[4]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[16]/div/div[1]"}
+  (Session info: chrome=88.0.4324.146)
+
+2021-02-26 17:14:27,033-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 17:14:27,033-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-02-26 17:14:29,095-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/ul/li[3]/span执行点击
+2021-02-26 17:14:31,164-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div/div/input执行输入操作,输入值为:2476-2019-YD01
+2021-02-26 17:14:33,350-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[2]/div[1]/div/button/span执行点击
+2021-02-26 17:14:35,401-GovernmentCaseLog-INFO-预期结果为潘利
+2021-02-26 17:14:35,410-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:通过填报用地编号搜索企业 错误信息:预期结果与实际结果不匹配

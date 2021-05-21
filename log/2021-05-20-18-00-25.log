@@ -1,0 +1,17 @@
+2021-05-20 18:00:25,776-Runner-INFO-***********开始执行测试************
+2021-05-20 18:00:30,423-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 18:00:30,424-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2021-05-20 18:00:32,492-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:成都卓胜特维电子科技有限公司
+2021-05-20 18:00:34,704-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[2]/button/span执行点击
+2021-05-20 18:00:36,790-GovernmentCaseLog-INFO-预期结果为成都卓胜特维电子科技有限公司
+2021-05-20 18:00:41,311-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 18:00:41,312-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2021-05-20 18:00:43,400-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li[1]/div/div[2]/div/button/span/span执行点击
+2021-05-20 18:00:46,247-GovernmentCaseLog-INFO-预期结果为成都市温江区工业企业基础调查
+2021-05-20 18:00:50,783-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 18:00:50,785-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[3]/span执行点击
+2021-05-20 18:00:52,875-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[1]/ul/li[4]执行点击
+2021-05-20 18:01:13,954-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:统计看板 用例名称:搜索统计数据 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[1]/ul/li[4]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+2021-05-20 18:01:41,984-Runner-INFO-************生成测试报告成功********

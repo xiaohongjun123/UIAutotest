@@ -1,0 +1,9 @@
+2021-01-11 15:54:36,480-Runner-INFO-***********开始执行测试************
+2021-01-11 15:54:42,873-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 15:54:42,874-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2021-01-11 15:54:44,905-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:成都卓胜特维电子科技有限公司
+2021-01-11 15:54:47,067-GovernmentCaseLog-INFO-预期结果为成都卓胜特维电子科技有限公司
+2021-01-11 15:54:56,089-GovernmentCaseLog-INFO-账号登录成功
+2021-01-11 15:54:56,090-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[4]/span执行点击
+2021-01-11 15:54:58,155-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/ul/li[5]/div/div[1]/input执行输入操作,输入值为:2020-11-01 00:00:00
+2021-01-11 15:55:00,806-Runner-INFO-************生成测试报告成功********

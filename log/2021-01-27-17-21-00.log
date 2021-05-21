@@ -1,0 +1,12 @@
+2021-01-27 17:21:07,785-GovernmentCaseLog-INFO-账号登录成功
+2021-01-27 17:21:07,786-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[3]/span执行点击
+2021-01-27 17:21:09,853-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[1]/ul/li[4]执行点击
+2021-01-27 17:21:11,893-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[3]/div[1]/div/input执行输入操作,输入值为:新签约并开工建设项目奖励
+2021-01-27 17:21:13,995-GovernmentCaseLog-INFO-预期结果为成都市温江区统筹抓好疫情防控奋力实现2020年经济社会发展目标的政策措施
+2021-01-27 17:21:23,196-GovernmentCaseLog-INFO-账号登录成功
+2021-01-27 17:21:23,197-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-01-27 17:21:25,242-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/ul/li[1]/span执行点击
+2021-01-27 17:21:27,297-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/input执行输入操作,输入值为:2021年企业融资需求征集
+2021-01-27 17:21:29,435-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/div/button/span执行点击
+2021-01-27 17:21:31,495-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[2]/div[2]/div[3]/table/tbody/tr/td[9]/div/p执行点击
+2021-01-27 17:21:33,534-GovernmentCaseLog-INFO-预期结果为唐欣

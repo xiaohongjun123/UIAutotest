@@ -10,7 +10,8 @@
 #配置文件实例化
 import os
 from configobj import ConfigObj
-config=ConfigObj(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/configfile/Config.ini",encoding="UTF-8")
+from util import ProjectPath
+config=ConfigObj(ProjectPath.PtPath("/configfile/Config.ini"),encoding="UTF-8")
 
 
 

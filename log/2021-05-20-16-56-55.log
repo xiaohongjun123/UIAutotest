@@ -1,0 +1,26 @@
+2021-05-20 16:56:55,778-Runner-INFO-***********开始执行测试************
+2021-05-20 16:57:05,559-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 16:57:05,560-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2021-05-20 16:57:07,616-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:成都卓胜特维电子科技有限公司
+2021-05-20 16:57:09,830-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[2]/button/span执行点击
+2021-05-20 16:57:11,911-GovernmentCaseLog-INFO-预期结果为成都卓胜特维电子科技有限公司
+2021-05-20 16:57:16,616-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 16:57:16,617-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2021-05-20 16:57:18,715-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li[1]/div/div[2]/div/button/span/span执行点击
+2021-05-20 16:57:22,171-GovernmentCaseLog-INFO-预期结果为成都市温江区工业企业基础调查
+2021-05-20 16:57:27,208-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 16:57:27,210-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[3]/span执行点击
+2021-05-20 16:57:29,302-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[1]/ul/li[4]执行点击
+2021-05-20 16:57:50,942-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:统计看板 用例名称:搜索统计数据 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div/div/div/div[1]/ul/li[4]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+2021-05-20 16:57:55,918-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 16:57:55,920-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[4]/span执行点击
+2021-05-20 16:57:58,212-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/ul/li[5]/div/div[1]/input执行输入操作,输入值为:2020-11-01 00:00:00
+2021-05-20 16:58:03,357-GovernmentCaseLog-INFO-账号登录成功
+2021-05-20 16:58:03,358-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[2]/div/span执行点击
+2021-05-20 16:58:05,428-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[2]/ul/li/span执行点击
+2021-05-20 16:58:07,509-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[2]/div[1]/div[2]/div/input执行输入操作,输入值为:20200907002205
+2021-05-20 16:58:09,653-GovernmentCaseLog-INFO-预期结果为20200907002205
+2021-05-20 16:58:09,672-GovernmentCaseLog-ERROR-一级模块:政策数据爬取 二级模块:政策数据 用例名称:搜索筛选政策数据 错误信息:预期结果与实际结果不匹配
+2021-05-20 16:58:56,202-Runner-INFO-************生成测试报告成功********

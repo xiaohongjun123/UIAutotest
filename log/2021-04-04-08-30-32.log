@@ -1,0 +1,552 @@
+2021-04-04 08:30:32,399-Runner-INFO-***********开始执行测试************
+2021-04-04 08:30:36,456-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:30:36,458-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2021-04-04 08:30:56,924-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:企业反馈诉求统计 用例名称:通过名字搜索企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:31:00,848-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:31:00,849-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2021-04-04 08:31:21,352-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:工作看板 用例名称:通过工作看板进入到处理事项界面 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:31:25,304-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:31:25,306-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[3]/span执行点击
+2021-04-04 08:31:45,734-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:统计看板 用例名称:搜索统计数据 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[1]/ul/li[3]/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:31:49,651-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:31:49,653-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[3]/div/span执行点击
+2021-04-04 08:32:10,217-GovernmentCaseLog-ERROR-一级模块:政策文件管理 二级模块:宏观政策 用例名称:待处理界面编辑政策 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[3]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:32:14,111-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:32:14,112-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[3]/div/span执行点击
+2021-04-04 08:32:34,531-GovernmentCaseLog-ERROR-一级模块:政策文件管理 二级模块:宏观政策 用例名称:已处理界面新增宏观政策 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[3]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:32:38,430-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:32:38,432-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[3]/div/span执行点击
+2021-04-04 08:32:58,878-GovernmentCaseLog-ERROR-一级模块:政策文件管理 二级模块:扶持政策 用例名称:待处理界面编辑扶持政策 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[3]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:33:02,782-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:33:02,783-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[3]/div/span执行点击
+2021-04-04 08:33:23,268-GovernmentCaseLog-ERROR-一级模块:政策文件管理 二级模块:扶持政策 用例名称:已处理界面新增扶持政策 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[3]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:33:27,145-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:33:27,146-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[3]/div/span执行点击
+2021-04-04 08:33:47,577-GovernmentCaseLog-ERROR-一级模块:政策文件管理 二级模块:实施细则 用例名称:待处理界面编辑实施细则 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[3]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:33:51,461-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:33:51,462-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[3]/div/span执行点击
+2021-04-04 08:34:11,886-GovernmentCaseLog-ERROR-一级模块:政策文件管理 二级模块:实施细则 用例名称:已处理界面新增实施细则 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[3]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:34:15,783-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:34:15,785-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[4]/div/span执行点击
+2021-04-04 08:34:36,235-GovernmentCaseLog-ERROR-一级模块:政策条款管理 二级模块:扶持条款管理 用例名称:待处理界面编辑扶持条款 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[4]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:34:40,168-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:34:40,169-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[4]/div/span执行点击
+2021-04-04 08:35:00,668-GovernmentCaseLog-ERROR-一级模块:政策条款管理 二级模块:扶持条款管理 用例名称:已处理界面编辑扶持条款 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[4]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:35:04,593-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:35:04,594-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[4]/div/span执行点击
+2021-04-04 08:35:25,056-GovernmentCaseLog-ERROR-一级模块:政策条款管理 二级模块:细则条款管理 用例名称:待处理界面编辑细则条款 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[4]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:35:29,007-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:35:29,009-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-04-04 08:35:49,782-GovernmentCaseLog-ERROR-一级模块:通知管理公告 二级模块:申报通知公告 用例名称:待处理界面编辑申报通知公告 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[5]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:35:53,769-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:35:53,770-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-04-04 08:36:14,292-GovernmentCaseLog-ERROR-一级模块:通知管理公告 二级模块:申报通知公告 用例名称:已处理界面新增申报通知公告 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[5]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:36:18,208-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:36:18,209-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-04-04 08:36:38,680-GovernmentCaseLog-ERROR-一级模块:通知管理公告 二级模块:通知公告 用例名称:待处理界面编辑通知公告 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[5]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:36:42,595-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:36:42,596-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-04-04 08:37:03,091-GovernmentCaseLog-ERROR-一级模块:通知管理公告 二级模块:通知公告 用例名称:已处理界面新增通知公告 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[5]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:37:07,006-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:37:07,008-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[6]/div/span执行点击
+2021-04-04 08:37:27,475-GovernmentCaseLog-ERROR-一级模块:项目管理 二级模块:项目申报列表 用例名称:新增项目申报 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[6]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:37:31,421-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:37:31,423-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[6]/div/span执行点击
+2021-04-04 08:37:51,911-GovernmentCaseLog-ERROR-一级模块:项目管理 二级模块:项目申报列表 用例名称:编辑项目申报 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[6]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:37:55,907-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:37:55,908-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[6]/div/span执行点击
+2021-04-04 08:38:16,395-GovernmentCaseLog-ERROR-一级模块:项目管理 二级模块:项目申报列表 用例名称:搜索项目申报 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[6]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:38:20,419-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:38:20,420-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-04-04 08:38:40,907-GovernmentCaseLog-ERROR-一级模块:申报申请管理 二级模块:申报记录列表 用例名称:查看申报记录详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[7]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:38:44,843-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:38:44,844-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-04-04 08:39:05,294-GovernmentCaseLog-ERROR-一级模块:申报申请管理 二级模块:发票补录管理 用例名称:查看发票补录详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[7]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:39:09,218-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:39:09,219-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-04-04 08:39:29,662-GovernmentCaseLog-ERROR-一级模块:申报申请管理 二级模块:发票补录管理 用例名称:编辑补录项目 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[7]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:39:33,560-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:39:33,562-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-04-04 08:39:54,006-GovernmentCaseLog-ERROR-一级模块:申报申请管理 二级模块:补充资料记录 用例名称:查看补充资料 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[7]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:39:57,916-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:39:57,917-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-04-04 08:40:18,376-GovernmentCaseLog-ERROR-一级模块:申报申请管理 二级模块:申报资料订正记录 用例名称:查看申报资料订正记录详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[7]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:40:22,328-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:40:22,329-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[8]/div/span执行点击
+2021-04-04 08:40:42,812-GovernmentCaseLog-ERROR-一级模块:企业用户管理 二级模块:企业列表 用例名称:搜索查看企业用户详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[8]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:40:46,757-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:40:46,758-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:41:07,327-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:中介机构服务管理 用例名称:查看服务机构 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:41:11,237-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:41:11,238-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:41:31,707-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:中介机构服务管理 用例名称:编辑服务机构 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:41:35,642-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:41:35,644-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:41:56,113-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:中介机构服务管理 用例名称:评价服务机构 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:42:00,108-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:42:00,109-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:42:20,622-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:中介机构列表 用例名称:搜索中介机构 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:42:24,541-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:42:24,542-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:42:45,122-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:中介机构列表 用例名称:查看中介机构 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:42:49,030-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:42:49,031-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:43:09,504-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:中介机构列表 用例名称:编辑中介机构 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:43:13,585-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:43:13,586-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:43:34,117-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:搜索通知公告 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:43:38,459-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:43:38,460-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:43:59,293-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:中介服务简介查看 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:44:03,260-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:44:03,261-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:44:23,804-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:入驻流程查看 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:44:27,731-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:44:27,732-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:44:48,199-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:评价机制查看 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:44:52,143-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:44:52,144-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:45:12,698-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:服务监督查看 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:45:16,731-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:45:16,732-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[9]/div/span执行点击
+2021-04-04 08:45:37,361-GovernmentCaseLog-ERROR-一级模块:中介服务 二级模块:通知列表 用例名称:新增通知 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[9]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:45:41,276-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:45:41,278-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[10]/div/span执行点击
+2021-04-04 08:46:01,707-GovernmentCaseLog-ERROR-一级模块:企业信息库 二级模块:企业信息列表 用例名称:搜索企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[10]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:46:05,722-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:46:05,723-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[10]/div/span执行点击
+2021-04-04 08:46:26,216-GovernmentCaseLog-ERROR-一级模块:企业信息库 二级模块:企业信息列表 用例名称:查看企业信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[10]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:46:30,129-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:46:30,130-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[10]/div/span执行点击
+2021-04-04 08:46:50,637-GovernmentCaseLog-ERROR-一级模块:企业信息库 二级模块:企业信息列表 用例名称:编辑企业信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[10]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:46:54,573-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:46:54,574-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[10]/div/span执行点击
+2021-04-04 08:47:15,045-GovernmentCaseLog-ERROR-一级模块:企业信息库 二级模块:企业信息列表 用例名称:新增企业信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[10]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:47:18,954-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:47:18,955-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[10]/div/span执行点击
+2021-04-04 08:47:39,463-GovernmentCaseLog-ERROR-一级模块:企业信息库 二级模块:企业信息列表 用例名称:群发站内信 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[10]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:47:43,437-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:47:43,438-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[11]/div/span执行点击
+2021-04-04 08:48:03,897-GovernmentCaseLog-ERROR-一级模块:政策解读管理 二级模块:政策解读管理 用例名称:搜索政策解读 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[11]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:48:07,812-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:48:07,813-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[11]/div/span执行点击
+2021-04-04 08:48:28,293-GovernmentCaseLog-ERROR-一级模块:政策解读管理 二级模块:政策解读管理 用例名称:新增政策解读 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[11]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:48:32,193-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:48:32,194-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[11]/div/span执行点击
+2021-04-04 08:48:52,703-GovernmentCaseLog-ERROR-一级模块:政策解读管理 二级模块:政策解读管理 用例名称:编辑政策解读 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[11]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:48:56,617-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:48:56,619-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:49:17,082-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:企业意见征集管理 用例名称:新增意见征集 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:49:21,024-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:49:21,025-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:49:41,525-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:企业意见征集管理 用例名称:搜索意见征集 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:49:45,433-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:49:45,435-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:50:05,948-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:企业意见征集管理 用例名称:编辑意见征集 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:50:09,872-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:50:09,873-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:50:30,362-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:信息动态列表 用例名称:搜索信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:50:34,238-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:50:34,239-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:50:54,629-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:信息动态列表 用例名称:新增信息动态 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:50:58,572-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:50:58,573-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:51:18,986-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:信息动态列表 用例名称:编辑信息动态 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:51:22,891-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:51:22,892-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-04-04 08:51:43,374-GovernmentCaseLog-ERROR-一级模块:管家服务管理 二级模块:推送记录 用例名称:查看推送记录 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[12]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:51:47,292-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:51:47,293-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:52:07,724-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:活动列表 用例名称:搜索活动 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:52:11,642-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:52:11,643-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:52:32,094-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:活动列表 用例名称:新增活动 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:52:35,992-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:52:35,993-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:52:56,477-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:活动列表 用例名称:查看短信发送记录 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:53:00,394-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:53:00,396-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:53:20,865-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:活动列表 用例名称:编辑已有活动 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:53:24,913-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:53:24,914-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:53:45,414-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:功能说明配置 用例名称:查看功能说明配置 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:53:49,325-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:53:49,327-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:54:09,761-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:操作流程配置 用例名称:查看操作流程配置 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:54:13,645-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:54:13,646-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:54:34,109-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:免责申明配置 用例名称:查看免责申明配置 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:54:38,095-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:54:38,096-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:54:58,550-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:企业列表 用例名称:搜索筛选企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:55:02,495-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:55:02,496-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:55:22,960-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:企业列表 用例名称:编辑企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:55:26,890-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:55:26,891-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:55:47,352-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:供需对接管理 用例名称:搜索供需对接 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:55:51,275-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:55:51,276-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:56:11,685-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:供需对接管理 用例名称:新增供需对接 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:56:15,592-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:56:15,593-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:56:36,058-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:供需对接管理 用例名称:编辑供需对接 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:56:39,971-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:56:39,972-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[13]/div/span执行点击
+2021-04-04 08:57:00,448-GovernmentCaseLog-ERROR-一级模块:供需对接管理 二级模块:名优产品管理 用例名称:新增名优产品 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[13]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:57:04,330-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:57:04,331-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:57:24,815-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈问题清单 用例名称:搜索诉求反馈 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:57:28,696-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:57:28,697-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:57:49,184-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈问题清单 用例名称:新增企业诉求 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:57:53,087-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:57:53,089-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:58:13,571-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈问题清单 用例名称:编辑企业诉求 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:58:17,478-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:58:17,479-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:58:37,917-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈问题清单 用例名称:编辑台账 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:58:41,862-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:58:41,863-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:59:02,274-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈问题清单 用例名称:编辑台账 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:59:06,297-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:59:06,298-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:59:26,848-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈台账 用例名称:查看诉求反馈台账 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:59:30,770-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:59:30,771-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-04-04 08:59:51,266-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:反馈问题类型设置 用例名称:新增反馈问题类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[15]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 08:59:55,172-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 08:59:55,173-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:00:15,618-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:汇总统计（区标） 用例名称:数据列表点击规上企业，数据将自动变更为规上企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:00:19,515-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:00:19,517-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:00:39,963-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:汇总统计（区标） 用例名称:数据列表点击规下企业，数据将自动变更为规下企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:00:43,888-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:00:43,889-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:01:04,400-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:汇总统计（区标） 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:01:08,381-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:01:08,382-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:01:29,134-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:汇总统计（区标） 用例名称:通过信用代码搜索企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:01:33,024-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:01:33,025-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:01:53,454-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:汇总统计（省标） 用例名称:通过信用代码搜索企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:01:57,340-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:01:57,341-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:02:17,802-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:汇总统计（省标） 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:02:21,706-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:02:21,708-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:02:42,204-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:02:46,084-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:02:46,085-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:03:06,511-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息审核列表 用例名称:通过填报用地编号搜索企业 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:03:10,592-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:03:10,593-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:03:31,030-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息填报记录列表 用例名称:查看用地填报详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:03:34,895-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:03:34,896-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:03:55,360-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:用地信息填报记录列表 用例名称:通过公司名称搜索申报记录信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:03:59,311-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:03:59,313-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:04:19,702-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:申报事项配置 用例名称:新增新报事项配置 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:04:23,626-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:04:23,627-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:04:44,295-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:申报事项配置 用例名称:编辑申报事项配置 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:04:48,242-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:04:48,244-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:05:08,923-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:审阅流程配置 用例名称:新增部门 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:05:12,856-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:05:12,857-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[16]/div/span执行点击
+2021-04-04 09:05:33,239-GovernmentCaseLog-ERROR-一级模块:用地填报管理 二级模块:审阅流程配置 用例名称:编辑已有部门 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[16]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:05:37,179-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:05:37,180-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[17]/div/span执行点击
+2021-04-04 09:05:57,742-GovernmentCaseLog-ERROR-一级模块:人才数据管理 二级模块:人才数据列表 用例名称:搜索人才信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[17]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:06:01,620-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:06:01,622-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[17]/div/span执行点击
+2021-04-04 09:06:22,096-GovernmentCaseLog-ERROR-一级模块:人才数据管理 二级模块:人才数据列表 用例名称:新增人才信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[17]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:06:26,049-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:06:26,050-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[17]/div/span执行点击
+2021-04-04 09:06:46,519-GovernmentCaseLog-ERROR-一级模块:人才数据管理 二级模块:人才数据列表 用例名称:编辑人才信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[17]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:06:50,402-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:06:50,403-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[17]/div/span执行点击
+2021-04-04 09:07:10,924-GovernmentCaseLog-ERROR-一级模块:人才数据管理 二级模块:人才数据列表 用例名称:查看人才信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[17]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:07:14,816-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:07:14,817-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:07:35,281-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:企业标签配置 用例名称:新增企业标签 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:07:39,196-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:07:39,197-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:07:59,666-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:企业标签配置 用例名称:编辑企业标签 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:08:03,570-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:08:03,571-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:08:24,110-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:政策类型管理 用例名称:新增政策类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:08:28,010-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:08:28,011-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:08:48,481-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:政策类型管理 用例名称:编辑政策类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:08:52,404-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:08:52,405-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:09:12,876-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:项目分类管理 用例名称:新增项目分类管理 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:09:16,795-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:09:16,796-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:09:37,225-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:项目分类管理 用例名称:编辑项目分类管理 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:09:41,138-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:09:41,140-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:10:01,576-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:首页飘窗内容配置 用例名称:新增首页飘窗内容 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:10:05,495-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:10:05,496-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:10:25,960-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:首页飘窗内容配置 用例名称:编辑首页飘窗内容 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:10:29,939-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:10:29,941-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:10:50,389-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:中介服务类型配置 用例名称:新增中介服务类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:10:54,380-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:10:54,381-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:11:14,935-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:中介服务类型配置 用例名称:新增二级中介服务类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:11:18,857-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:11:18,859-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:11:39,340-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:企业账号类型设置 用例名称:查看数据权限简介 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:11:43,217-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:11:43,218-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:12:03,700-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:企业账号类型设置 用例名称:新增类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:12:07,632-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:12:07,633-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[18]/div/span执行点击
+2021-04-04 09:12:28,119-GovernmentCaseLog-ERROR-一级模块:系统配置 二级模块:企业账号类型设置 用例名称:编辑已有类型 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[18]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:12:32,035-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:12:32,036-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[19]/div/span执行点击
+2021-04-04 09:12:52,546-GovernmentCaseLog-ERROR-一级模块:人员管理 二级模块:部门管理 用例名称:新增部门 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[19]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:12:56,474-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:12:56,475-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[19]/div/span执行点击
+2021-04-04 09:13:16,981-GovernmentCaseLog-ERROR-一级模块:人员管理 二级模块:部门管理 用例名称:编辑部门 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[19]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:13:20,897-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:13:20,898-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[19]/div/span执行点击
+2021-04-04 09:13:41,374-GovernmentCaseLog-ERROR-一级模块:人员管理 二级模块:部门管理 用例名称:新增员工 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[19]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:13:45,301-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:13:45,302-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[19]/div/span执行点击
+2021-04-04 09:14:05,785-GovernmentCaseLog-ERROR-一级模块:人员管理 二级模块:部门管理 用例名称:修改员工权限 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[19]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:14:09,666-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:14:09,667-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[19]/div/span执行点击
+2021-04-04 09:14:30,101-GovernmentCaseLog-ERROR-一级模块:人员管理 二级模块:成员管理 用例名称:新建员工 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[19]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:14:34,010-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:14:34,011-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[19]/div/span执行点击
+2021-04-04 09:14:54,461-GovernmentCaseLog-ERROR-一级模块:人员管理 二级模块:成员管理 用例名称:编辑员工 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[19]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:14:58,360-GovernmentCaseLog-INFO-账号登录成功
+2021-04-04 09:14:58,361-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[20]/div/span执行点击
+2021-04-04 09:15:18,886-GovernmentCaseLog-ERROR-一级模块:个人中心 二级模块:个人中心 用例名称:编辑个人信息 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/div/ul/li[20]/div/span"}
+  (Session info: headless chrome=86.0.4240.111)
+
+2021-04-04 09:15:19,227-Runner-INFO-************生成测试报告成功********

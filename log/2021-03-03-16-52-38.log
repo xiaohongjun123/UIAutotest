@@ -1,0 +1,7 @@
+2021-03-03 16:52:43,497-GovernmentCaseLog-INFO-账号登录成功
+2021-03-03 16:52:43,498-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-03-03 16:52:45,544-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/ul/li[2]/span执行点击
+2021-03-03 16:52:47,598-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[2]/div[1]/div/input执行输入操作,输入值为:2021-2848-1
+2021-03-03 16:52:49,833-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[2]/div[2]/button执行点击
+2021-03-03 16:52:51,898-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[5]/div[1]/div[5]/div[2]/table/tbody/tr/td[20]/div/div[1]/button/span执行点击
+2021-03-03 16:52:53,944-GovernmentCaseLog-INFO-预期结果为台账详情

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/16 16:41
 # @Author  : hongjun.xiao
-# @File    : Runner.py
+# @File    : EmailConfig
 # @system  : WenJiang
 
 import sys
@@ -17,54 +17,80 @@ import time
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 import os
-from util import PicScreenShot
+from util import PicScreenShot,ProjectPath
+from mimetypes import guess_type
 
 def emailSend(*recivers):
 #--------邮件服务器--------
-    mail_host = 'smtp.qq.com'
-    mail_user = '879337649@qq.com'
-    mail_passwd = 'zjlsdbxqjujgbdga'
-    mail_send = 'uiautotest@qq.com'
-    message=MIMEMultipart("alternative")
-    message["From"]=Header("UIAutoTest","utf-8")
+    mail_host = 'smtp.sina.com'
+    mail_user = 'autowengjiang@sina.com'
+    mail_passwd = 'dc77e8dbc727e611'
+    mail_send = 'autowengjiang@sina.com'
+    message=MIMEMultipart("alternative")#定义邮件可以发送超文本内容
+    message["From"]=Header("autowengjiang@sina.com")
     message["To"]=Header("Group","utf-8")
-    print("构造邮件")
 
     #够造邮件主题
-    subject="UIAuto测试报告"+str(time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
+    subject="自动化"+str(time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()))
     message["Subject"]=Header(subject,"utf-8")
-    print("构造主题")
     
     #构造正文内容，并且插入图片
-    PicScreenShot.ScreenPic()
-    print(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/"+"Screemshot.png")
-    fp=open(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/"+"Screemshot.png","rb")
-    msgimage=MIMEImage(fp.read())
-    fp.close()
-    print("拿到图片")
-    msgimage.add_header("Content-ID","<image1>")
-    message.attach(msgimage)
-    html='''
-    <html>
-        <head></head>
-        <body>
-            <p>本次测试结果如下，详情请使用chrome浏览器打开附件查看：<br>
-                <br><img src="cid:image1"></br>
-            </p>
-        </body>
-    </html>
-    '''
+    url_one=ProjectPath.PtPath("/testreport/UIAutoTestReport_one.html")
+    screenshot_name="screenshot_one.png"
+    screenshot_path=ProjectPath.PtPath("/testreport/"+screenshot_name)
+    PicScreenShot.ScreenPic(url_one,screenshot_name,screenshot_path)
+    Pic_two=PicScreenShot.ScreenPicTwo()
+    if os.path.exists(Pic_two[0])==True:
+        Pic_url=[screenshot_path,Pic_two[1]]
+        for i,Pic_image in enumerate(Pic_url):
+            (mimetype, encoding) = guess_type(Pic_image)
+            (maintype, subtype) = mimetype.split('/')
+            with open(Pic_image,"rb") as fp:
+                msgimage = MIMEImage(fp.read(),**{'_subtype': subtype})
+                fp.close()
+                msgimage.add_header("Content-ID","<image%d>"%(i+1))
+                message.attach(msgimage)
+        html = '''
+        <html>
+            <head></head>
+            <body>
+                <p>本来结果如下，详情请看附件：<br>
+                    <br><img src="cid:image1"></br>
+                    错误用例重跑结果如下：<br>
+                    <br><img src="cid:image2"></br>
+                </p>
+            </body>
+        </html>
+        '''
+    else:
+        fp=open(screenshot_path,"rb")
+        msgimage=MIMEImage(fp.read())
+        fp.close()
+        msgimage.add_header("Content-ID","<image1>")
+        message.attach(msgimage)
+        html='''
+        <html>
+            <head></head>
+            <body>
+                <p>本来结果如下，详情请看附件：<br>
+                    <br><img src="cid:image1"></br>
+                </p>
+            </body>
+        </html>
+        '''
+
+    #html=open(r'D:\project\WenJiang_selenium\\testreport\UIAutoTestReport.html',"rb")
+    #html1=html.read()
+    #html.close()
+
     htl=MIMEText(html,"html",_charset="utf-8")
     message.attach(htl)
-    print("构造正文")
 
     #构造附件
-    att=MIMEText(open(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/UIAutoTestReport.html","rb").read(),"base64","utf-8")
-    print(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/UIAutoTestReport.html")
+    att=MIMEText(open(ProjectPath.PtPath("/testreport/UIAutoTestReport_one.html"),"rb").read(),"base64","utf-8")
     att['Content-Type'] = 'application/octet-stream'
-    att['Content-Disposition'] = "attachment;filename=UIAutoTestReport.html"
+    att['Content-Disposition'] = "attachment;filename=UIAutoReport_one.html"
     message.attach(att)
-    print("构造附件")
 
     try:
         smtpobj=smtplib.SMTP_SSL(mail_host,465)

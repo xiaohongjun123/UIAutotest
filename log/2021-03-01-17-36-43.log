@@ -1,0 +1,15 @@
+2021-03-01 17:36:49,062-GovernmentCaseLog-INFO-账号登录成功
+2021-03-01 17:36:49,063-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2021-03-01 17:36:51,125-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li[1]/div/div[2]/div/button/span/span执行点击
+2021-03-01 17:36:53,896-GovernmentCaseLog-INFO-预期结果为处理部门
+2021-03-01 17:36:53,915-GovernmentCaseLog-ERROR-一级模块:工作台 二级模块:工作看板 用例名称:通过工作看板进入到处理事项界面 错误信息:预期结果与实际结果不匹配
+2021-03-01 17:37:01,171-GovernmentCaseLog-INFO-账号登录成功
+2021-03-01 17:37:01,172-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-03-01 17:37:03,221-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/ul/li[1]/span执行点击
+2021-03-01 17:37:05,279-GovernmentCaseLog-INFO-元素://*[@id="pane-tab1"]/div/div[3]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[10]/div/div[1]/button/span执行点击
+2021-03-01 17:37:07,332-GovernmentCaseLog-INFO-预期结果为新增申报通知
+2021-03-01 17:37:14,468-GovernmentCaseLog-INFO-账号登录成功
+2021-03-01 17:37:14,469-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/div/span执行点击
+2021-03-01 17:37:16,521-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[5]/ul/li[2]/span执行点击
+2021-03-01 17:37:18,580-GovernmentCaseLog-INFO-元素://*[@id="pane-tab1"]/div/div[3]/div[1]/div[5]/div[2]/table/tbody/tr[1]/td[10]/div/div[1]/button/span执行点击
+2021-03-01 17:37:20,994-GovernmentCaseLog-INFO-预期结果为新增通知公告

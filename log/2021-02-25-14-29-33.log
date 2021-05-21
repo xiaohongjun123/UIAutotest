@@ -1,0 +1,7 @@
+2021-02-25 14:29:38,063-GovernmentCaseLog-INFO-账号登录成功
+2021-02-25 14:29:38,064-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-02-25 14:29:40,123-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/ul/li[1]/span执行点击
+2021-02-25 14:29:42,195-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/input执行输入操作,输入值为:2021年企业融资需求征集
+2021-02-25 14:29:44,326-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/div/button/span执行点击
+2021-02-25 14:29:46,385-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[2]/div[2]/div[3]/table/tbody/tr/td[9]/div/p执行点击
+2021-02-25 14:29:48,426-GovernmentCaseLog-INFO-预期结果为唐欣

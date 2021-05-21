@@ -1,0 +1,15 @@
+2021-02-26 14:07:30,222-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 14:07:30,223-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/div/span执行点击
+2021-02-26 14:07:32,278-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[7]/ul/li[2]/span执行点击
+2021-02-26 14:07:34,341-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[1]/div[2]/div[1]/input执行输入操作,输入值为:给予行业组织复工稳产奖励
+2021-02-26 14:07:36,517-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[5]/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[13]/div/button/span执行点击
+2021-02-26 14:07:46,533-GovernmentCaseLog-ERROR-一级模块:申报申请管理 二级模块:申报记录列表 用例名称:查看申报记录详情 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[5]/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[13]/div/button/span"}
+  (Session info: chrome=88.0.4324.146)
+
+2021-02-26 14:07:55,815-GovernmentCaseLog-INFO-账号登录成功
+2021-02-26 14:07:55,815-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/div/span执行点击
+2021-02-26 14:07:57,996-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[12]/ul/li[1]/span执行点击
+2021-02-26 14:08:00,053-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/input执行输入操作,输入值为:2021年企业融资需求征集
+2021-02-26 14:08:02,176-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[1]/div[1]/div/div/button/span执行点击
+2021-02-26 14:08:04,228-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[3]/div[2]/div[2]/div[3]/table/tbody/tr/td[9]/div/p执行点击
+2021-02-26 14:08:06,266-GovernmentCaseLog-INFO-预期结果为唐欣

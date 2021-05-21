@@ -1,0 +1,11 @@
+2021-05-06 17:57:51,356-Runner-INFO-***********开始执行测试************
+2021-05-06 17:57:56,070-GovernmentCaseLog-INFO-账号登录成功
+2021-05-06 17:57:56,074-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[1]/span执行点击
+2021-05-06 17:57:58,142-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[1]/div/input执行输入操作,输入值为:成都卓胜特维电子科技有限公司
+2021-05-06 17:58:00,362-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div/div/div[2]/div/div[2]/div[2]/button/span执行点击
+2021-05-06 17:58:02,462-GovernmentCaseLog-INFO-预期结果为成都卓胜特维电子科技有限公司
+2021-05-06 17:58:06,898-GovernmentCaseLog-INFO-账号登录成功
+2021-05-06 17:58:06,899-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[1]/ul/li[2]/span执行点击
+2021-05-06 17:58:09,013-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[1]/div[1]/div/ul/li[1]/div/div[2]/div/button/span/span执行点击
+2021-05-06 17:58:11,883-GovernmentCaseLog-INFO-预期结果为成都市温江区工业企业基础调查
+2021-05-06 17:58:12,247-Runner-INFO-************生成测试报告成功********

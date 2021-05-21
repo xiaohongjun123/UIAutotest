@@ -8,40 +8,49 @@ from selenium import webdriver
 from PIL import Image
 import time
 from selenium.webdriver.chrome.options import Options
+from util import ProjectPath
 
 
-def ScreenPic():
+def ScreenPic(url,screenshot_name,screenshot_path):
     options = Options()
     options.add_argument("--disable-notifications")
     options.add_argument("--disable-infobars")
     options.add_argument("--mute-audio")
-    options.add_argument('window-size=1600x1100')
+    options.add_argument('window-size=1920x3000')
+    options.add_argument('--start-maximized')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--no-sandbox')
     options.add_experimental_option('excludeSwitches', ['enable-automation'])
-    #prefs = {"profile.managed_default_content_settings.images": 2}
-    #options.add_experimental_option("prefs", prefs)
-
     options.add_argument("--headless")
     options.add_argument('--disable-gpu')
     driver = webdriver.Chrome(executable_path="/opt/google/chrome/chromedriver", options=options)
     driver.fullscreen_window()
-    #print(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/UIAutoTestReport.html")
-    driver.get("file:///home/xiaohongjun/uitest/testreport/UIAutoTestReport.html")
-    filename = "Screemshot.png"
-    time.sleep(3)
-    driver.save_screenshot(filename)
+
+    
+    driver.get("file://"+url)#window不需要"file://"
+    time.sleep(2)
+    driver.save_screenshot(screenshot_name)
     ele = driver.find_element_by_xpath('''/html/body/div[2]/div[1]/div''')
     left = ele.location["x"]
     top = ele.location["y"]
+    print(ele.location)
     right = left + ele.size["width"]
     bottom = top + ele.size["height"]
-    im = Image.open(filename)
+    print(ele.size)
+    im = Image.open(screenshot_name)
     im1 = im.crop((left, top, right, bottom))
-    print(im1)
-    im1.save(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))+"/testreport/"+filename)
-    driver.quit()
+    im1.save(screenshot_path)
+
+def ScreenPicTwo():
+    url_two=ProjectPath.PtPath("/testreport/UIAutoTestReport_two.html")
+    screenshot_name = "screenshot_two.png"
+    screenshot_path = ProjectPath.PtPath("/testreport/" + screenshot_name)
+    if os.path.exists(url_two)==True:
+        ScreenPic(url_two,screenshot_name,screenshot_path)
+    else:
+        pass
+    return url_two,screenshot_path
 
 
 if __name__=="__main__":
-    ScreenPic()
+    print(ScreenPicTwo())

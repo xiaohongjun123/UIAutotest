@@ -1,0 +1,7 @@
+2021-03-03 17:02:24,704-GovernmentCaseLog-INFO-账号登录成功
+2021-03-03 17:02:24,705-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/div/span执行点击
+2021-03-03 17:02:26,786-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/div/ul/li[15]/ul/li[2]/span执行点击
+2021-03-03 17:02:28,869-GovernmentCaseLog-INFO-元素://*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[2]/div[1]/div/inpu执行输入操作,输入值为:2021-2848-1
+2021-03-03 17:02:38,917-GovernmentCaseLog-ERROR-一级模块:用户反馈管理 二级模块:诉求反馈台账 用例名称:查看诉求反馈台账 错误信息:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/section/section/main/div/div[2]/div/div/div[3]/div[1]/div[2]/div[1]/div/inpu"}
+  (Session info: chrome=88.0.4324.146)
+
