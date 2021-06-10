@@ -31,7 +31,6 @@ def ReadExcel_new():
     sheet=wb["Sheet2"]
     #处理合并到的单元格，返回每个单元格所占了几行
     merged_list=list(str(sheet.merged_cells))
-    print(a)
     rownus = []
     rownus_original=[]
     n=0
