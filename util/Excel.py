@@ -46,7 +46,6 @@ def ReadExcel_new():
                 continue
         else:
             continue
-    print(rownus)
     #获取excel中基础字段的最初值
     general_value=[]
     for row in list(sheet.rows)[1:sheet.max_row]:
