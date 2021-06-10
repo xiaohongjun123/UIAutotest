@@ -30,16 +30,16 @@ def ReadExcel_new():
     wb=load_workbook(ProjectPath.PtPath("/casedata/GovernmentCaseData.xlsx"))
     sheet=wb["Sheet2"]
     #处理合并到的单元格，返回每个单元格所占了几行
-    a=list(str(sheet.merged_cells))
+    merged_list=list(str(sheet.merged_cells))
     print(a)
     rownus = []
     rownus_original=[]
     n=0
-    for A_list in a:
+    for A_list in merged_list:
         n=n+1
         if A_list=="A":
             #ans=a.index(A_list)获取列表元素的索引
-            rownus_original.append(a[n])
+            rownus_original.append(merged_list[n])
             if len(rownus_original)==2:
                 rownus.append(rownus_original)
                 rownus_original=[]
