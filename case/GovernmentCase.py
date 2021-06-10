@@ -19,7 +19,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 log=LogRecord.LogRd("GovernmentCaseLog").getLog()
 @ddt.ddt
-class Login(unittest.TestCase):
+class WinJiangUitest(unittest.TestCase):
 
     def isElementExist(self,element):
         try:
@@ -35,7 +35,7 @@ class Login(unittest.TestCase):
         self.driver.quit()
 
     @ddt.data(*Excel.ReadExcel())
-    def test_login(self,value):
+    def test_Operating(self,value):
         '''{}'''#获取用例描述
         self.driver.implicitly_wait(10)
         for step in range(len(value)):
